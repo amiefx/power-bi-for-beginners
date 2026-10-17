@@ -7,7 +7,7 @@ Free files for the **Power BI for Beginners** video course by [Asan Tutorials](h
 ## How to use these files
 1. Install the **latest** Power BI Desktop (older versions can't open newer files).
 2. Make a folder called **`PowerBI-Course`** on your C drive: `C:\PowerBI-Course`. The videos use this folder too, so everything you see on screen matches your PC.
-3. Download the data (the green **Code → Download ZIP** button), unzip it, and copy the `data` folder into it. You now have `C:\PowerBI-Course\data\contoso\sales.csv`.
+3. Download the data: open **Releases** (on the right of this page), click **data.zip**, and move it into `C:\PowerBI-Course`. Right-click it, choose **Extract All...**, keep the suggested folder (`C:\PowerBI-Course\data`) and click **Extract**. You now have `C:\PowerBI-Course\data\contoso\sales.csv`. Always extract a zip first: never open files inside it.
 4. Each lesson has its own page in `lessons/` (one folder per chapter). Its **Files** table links the Power BI file you need: click the file name, then the **Download raw file** button (the arrow at the top right). Save it in the chapter's folder, for example `C:\PowerBI-Course\ch02\`.
 5. A lesson starts from the end file of the lesson before it. Open that file, and follow along. Stuck? Open the lesson's own end file.
 
