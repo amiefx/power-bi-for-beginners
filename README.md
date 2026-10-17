@@ -27,4 +27,5 @@ You are the new data analyst at Contoso, a shop that sells electronics in 8 coun
 
 ## Credits and licenses
 - Data: **Contoso Data Generator V2 by SQLBI**, MIT License (see `data/contoso/LICENSE`). https://github.com/sql-bi/Contoso-Data-Generator-V2
-- Course files (lesson notes, Power BI files, glossary): license to be chosen by the course owner before the first upload.
+- Data: all files in `data/` are under the MIT License (the practice files in `data/first-report/` and `data/messy/` are made from the Contoso data).
+- Course files (lesson pages, Power BI files, glossary): **CC BY-NC 4.0** by Asan Tutorials. Free to share and adapt with credit, not for commercial use. See [`LICENSE`](LICENSE).
