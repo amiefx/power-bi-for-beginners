@@ -1,0 +1,4 @@
+*.pbix binary
+*.xlsx binary
+# data files are published byte for byte (no line-ending changes)
+*.csv -text

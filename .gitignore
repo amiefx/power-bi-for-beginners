@@ -1,0 +1,5 @@
+# Power BI files (.pbix) live in their lesson folder and ARE committed (owner decision 2026-10-17)
+*.zip
+releases.yaml
+.DS_Store
+Thumbs.db
