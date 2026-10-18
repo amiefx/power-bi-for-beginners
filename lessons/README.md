@@ -9,6 +9,7 @@ One folder per chapter, with one folder per video inside. Each video folder has 
 
 | Chapter | |
 |---|---|
+| 0 | [Welcome](ch00-welcome/) |
 | 1 | [Getting started](ch01-getting-started/) |
 | 2 | [Get data](ch02-get-data/) |
 

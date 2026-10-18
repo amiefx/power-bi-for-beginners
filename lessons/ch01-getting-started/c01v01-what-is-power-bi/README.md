@@ -35,4 +35,4 @@ Check your own answer: is your data facts and numbers the shop collects? And doe
 </details>
 
 ---
-Next: [1.2 Desktop, Service, Mobile](../c01v02-desktop-service-mobile/)
+Previous: [0.2 How to follow this course](../../ch00-welcome/c00v02-how-to-follow/) · Next: [1.2 Desktop, Service, Mobile](../c01v02-desktop-service-mobile/)
