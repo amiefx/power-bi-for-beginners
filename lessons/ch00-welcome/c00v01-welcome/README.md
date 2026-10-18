@@ -1,6 +1,6 @@
 # Lesson 0.1 — Welcome and course roadmap
 
-▶️ **Video:** <video link>
+▶️ **Video:** https://youtu.be/5pifZrf3rgY
 
 This is the start of a free Power BI course for beginners. You see the report you'll build at the end, meet the story behind the course, and get the plan for all 11 chapters.
 

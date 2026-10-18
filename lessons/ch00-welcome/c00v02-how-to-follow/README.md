@@ -1,6 +1,6 @@
 # Lesson 0.2 — How to follow this course
 
-▶️ **Video:** <video link>
+▶️ **Video:** https://youtu.be/WBAR6A1CVNQ
 
 Every lesson builds on the course files. In this lesson you download them, set up one folder for the whole course, and open your first Power BI file. Then you learn how to turn on subtitles.
 
